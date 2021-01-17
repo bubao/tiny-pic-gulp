@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
+  },
+  "name": "tiny-pic-gulp",
+  "version": "1.0.0",
+  "description": "thiny-pic use gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
